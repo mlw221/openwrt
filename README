@@ -33,7 +33,7 @@ Sunshine!
 	http://openwrt.org
 	
 
-	
+for 优库路由宝 , run make -j1 V=s TARGET_DEVICES=youku-yk1 	
 
 
  20170721:add config file for mlw221 ;
