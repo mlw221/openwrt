@@ -31,5 +31,12 @@ the lack of case sensitiveness in the file system.
 Sunshine!
 	Your OpenWrt Project
 	http://openwrt.org
+	
+
+	
 
 
+ 20170721:add config file for mlw221 ;
+          enable wifi and change the ap name to FileServer;
+	  compile with "make -j1 V=s TARGET_DEVICES=mlw221" .
+	  
